@@ -55,9 +55,9 @@ body:before{
     width: 100%;
     height: 100%;
     /* background cover */
-    background-image: linear-gradient(90deg, rgba(98, 117, 0, 0.4) 0%, rgba(99, 117, 9, 0.429)1%, rgba(141, 154, 0, 0.4) 10%), url(img/los_bg.jpg);
-    background-size: cover;
-    z-index: -1;
+    background-image: linear-gradient(90deg, rgba(98, 117, 0, 0.4) 0%, rgba(99, 117, 9, 0.429)1%, rgba(141, 154, 0, 0.4) 10%), url(img/los_bg.jpg);  
+    background-size: cover; 
+    z-index: -1; 
 }
 
 #input-email, #input-name{
